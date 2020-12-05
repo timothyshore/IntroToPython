@@ -7,6 +7,7 @@
 # ChangeLog (Who,When,What):
 # RRoot, 1.1.2030, Created started script
 # Tim Shore, 11.15.2020, Added code to complete assignment 5
+# Tim Shore, 12.06.2020, Added this comment to check GitHub Desktop
 # ------------------------------------------------------------------------ #
 
 # -- Data -- #
